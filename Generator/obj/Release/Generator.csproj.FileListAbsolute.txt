@@ -1,0 +1,24 @@
+C:\Users\a_balakin\Documents\Visual Studio 2012\Projects\Generator\Generator\bin\Release\Generator.exe.config
+C:\Users\a_balakin\Documents\Visual Studio 2012\Projects\Generator\Generator\bin\Release\Generator.exe
+C:\Users\a_balakin\Documents\Visual Studio 2012\Projects\Generator\Generator\bin\Release\Generator.pdb
+C:\Users\a_balakin\Documents\Visual Studio 2012\Projects\Generator\Generator\obj\Release\Generator.Form1.resources
+C:\Users\a_balakin\Documents\Visual Studio 2012\Projects\Generator\Generator\obj\Release\Generator.Properties.Resources.resources
+C:\Users\a_balakin\Documents\Visual Studio 2012\Projects\Generator\Generator\obj\Release\Generator.csproj.GenerateResource.Cache
+C:\Users\a_balakin\Documents\Visual Studio 2012\Projects\Generator\Generator\obj\Release\Generator.exe
+C:\Users\a_balakin\Documents\Visual Studio 2012\Projects\Generator\Generator\obj\Release\Generator.pdb
+L:\Projects\Generator\Generator\bin\Release\Generator.exe.config
+L:\Projects\Generator\Generator\obj\Release\Generator.exe
+L:\Projects\Generator\Generator\obj\Release\Generator.pdb
+L:\Projects\Generator\Generator\bin\Release\Generator.exe
+L:\Projects\Generator\Generator\bin\Release\Generator.pdb
+L:\Projects\Generator\Generator\obj\Release\Generator.Form1.resources
+L:\Projects\Generator\Generator\obj\Release\Generator.Properties.Resources.resources
+L:\Projects\Generator\Generator\obj\Release\Generator.csproj.GenerateResource.Cache
+C:\Users\Emris\AppData\Roaming\Skype\My Skype Received Files\Generator\Generator\bin\Release\Generator.exe.config
+C:\Users\Emris\AppData\Roaming\Skype\My Skype Received Files\Generator\Generator\obj\Release\Generator.exe
+C:\Users\Emris\AppData\Roaming\Skype\My Skype Received Files\Generator\Generator\obj\Release\Generator.pdb
+C:\Users\Emris\AppData\Roaming\Skype\My Skype Received Files\Generator\Generator\obj\Release\Generator.Form1.resources
+C:\Users\Emris\AppData\Roaming\Skype\My Skype Received Files\Generator\Generator\obj\Release\Generator.Properties.Resources.resources
+C:\Users\Emris\AppData\Roaming\Skype\My Skype Received Files\Generator\Generator\obj\Release\Generator.csproj.GenerateResource.Cache
+C:\Users\Emris\AppData\Roaming\Skype\My Skype Received Files\Generator\Generator\bin\Release\Generator.exe
+C:\Users\Emris\AppData\Roaming\Skype\My Skype Received Files\Generator\Generator\bin\Release\Generator.pdb
